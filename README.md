@@ -11,7 +11,7 @@ but may work with other releases.
 ### Create Game Data Zip
 
 1. Install 'The Sims - Complete Collection' to a PC, Windows VM, temporary Bottle, etc.
-2. Browse to the game installation location, this defaults to ` C:\Program Files (x86)\Maxis\The Sims`
+2. Browse to the game installation location, this defaults to `C:\Program Files (x86)\Maxis\The Sims`
 3. Browse up one level so that you can see the `The Sims` game folder
 4. Compress the `The Sims` game folder into a zip file
 5. Move your zip file somewhere easy to find, such as your Downloads folder: `~/Downloads/sims.zip`
